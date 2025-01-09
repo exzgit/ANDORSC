@@ -1,0 +1,42 @@
+﻿
+/*  
+	Contoh bahasa pemrograman ANDOR
+*/
+
+// Buat kelas wajib dengan nama MainClass agar dapat di eksekusi di awal
+class MainClass{
+	
+	// Buat fungsi
+	public function main(string name){
+
+		// Mengembalikan nilai
+		return(name);
+	}
+
+	// Buat constructor kelas
+	MainClass(){
+
+		// Definisi variable
+		string myname = "John Doe";
+
+		// Panggil fungsi main
+		string result = main(string name = myname);
+
+		// Cetak hasil dari fungsi main
+		print(result);
+		print("Sudah bang...");
+	}
+}
+
+/*
+KEKURANGAN:
+	Belum memiliki fitur:
+		- Object Oriented Programming
+		- Control Contionional dan Looping
+		- Import Module External
+		- Binary Operation
+	
+	Fitur Tersedia:
+		- Mendefinisikan kelas, fungsi, variable
+
+*/

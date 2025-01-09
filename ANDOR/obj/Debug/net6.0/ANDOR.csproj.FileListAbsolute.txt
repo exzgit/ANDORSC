@@ -1,0 +1,14 @@
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\ANDOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\ANDOR.AssemblyInfoInputs.cache
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\ANDOR.AssemblyInfo.cs
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\ANDOR.csproj.CoreCompileInputs.cache
+C:\Users\offic\source\repos\ANDOR\ANDOR\bin\Debug\net6.0\ANDOR.exe
+C:\Users\offic\source\repos\ANDOR\ANDOR\bin\Debug\net6.0\ANDOR.deps.json
+C:\Users\offic\source\repos\ANDOR\ANDOR\bin\Debug\net6.0\ANDOR.runtimeconfig.json
+C:\Users\offic\source\repos\ANDOR\ANDOR\bin\Debug\net6.0\ANDOR.dll
+C:\Users\offic\source\repos\ANDOR\ANDOR\bin\Debug\net6.0\ANDOR.pdb
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\ANDOR.dll
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\refint\ANDOR.dll
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\ANDOR.pdb
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\ANDOR.genruntimeconfig.cache
+C:\Users\offic\source\repos\ANDOR\ANDOR\obj\Debug\net6.0\ref\ANDOR.dll
