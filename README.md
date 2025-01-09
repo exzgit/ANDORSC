@@ -1,0 +1,2 @@
+# ANDORSC
+ Bahasa pemrograman simpel
