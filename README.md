@@ -4,7 +4,7 @@ Bahasa pemrograman simpel
 - **Contoh Code**: [Klik di sini](ANDOR/CodeTest/example.px)  
 
 ### Cara Pemasangan:  
-1. Download [**ANDOR.exe**](https://github.com/exzgit/ANDORSC/blob/main/ANDOR/bin/Debug/net6.0/ANDOR.exe).  
+1. Download <a href="https://github.com/exzgit/ANDORSC/blob/main/ANDOR/bin/Debug/net6.0/ANDOR.exe" download>ANDOR.exe</a>  
 2. Tambahkan file tersebut ke **Path Environment Variable** di sistem kamu.  
 3. Jalankan dengan perintah berikut di terminal atau Command Prompt:  
    ```bash
